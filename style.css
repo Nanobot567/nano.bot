@@ -1,3 +1,5 @@
-h1{
-  font-size: 120px;
+.title{
+  font-size: 100px;
+  text-align: center;
+  font-family: Courier New;
 }
